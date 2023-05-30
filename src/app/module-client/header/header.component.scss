@@ -1,0 +1,48 @@
+header{
+    background-color: white;
+    border-bottom: 1px solid #ffffff;
+    padding: 0;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    background-color: #29bcc7;
+    color: rgb(7, 7, 7);
+}
+
+button{
+    color: white;
+}
+
+button:hover{
+    background-color: aliceblue;
+    color: #080808;
+}
+
+span{
+    color: black;
+}
+
+a{
+    color: rgba(255, 255, 255, 0.856); font-size: 50px; font-style: italic;
+}
+
+a.logo{
+    font-weight: bold;
+    padding: 1;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 1;
+}
+
+nav ul li a{
+    padding: 1;
+    display: inline-block; 
+
+}
+button{
+    color: rgba(255, 255, 255, 0.938); font-size: 45px; font-style: italic;
+}
